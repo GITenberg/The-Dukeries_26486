@@ -1,0 +1,42 @@
+_repo: The-Dukeries_26486
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Haslehust, E. W.
+    aliases:
+    - Haslehurst, Ernest William
+    - Haslehurst, E. W.
+    - Haslehust, Ernest William
+    birthdate: 1866
+    deathdate: 1949
+    gutenberg_agent_id: '26576'
+    url: http://www.gutenberg.org/2009/agents/26576
+    wikipedia: https://en.wikipedia.org/wiki/Ernest_William_Haslehust
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gilchrist, Murray
+    aliases:
+    - Gilchrist, Robert Murray
+    - Gilchrist, R. Murray (Robert Murray)
+    birthdate: 1868
+    deathdate: 1917
+    gutenberg_agent_id: '32039'
+    url: http://www.gutenberg.org/2009/agents/32039
+description: ''
+gutenberg_issued: '2008-08-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26486'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Nottinghamshire (England) -- Description and travel'
+- !lcsh 'Historic buildings -- England -- Nottinghamshire'
+title: The Dukeries
+url: http://www.gutenberg.org/ebooks/26486
