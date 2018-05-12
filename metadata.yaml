@@ -26,6 +26,8 @@ creator:
     gutenberg_agent_id: '32039'
     url: http://www.gutenberg.org/2009/agents/32039
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26486#The-Dukeries
 gutenberg_issued: '2008-08-30'
 gutenberg_type: Text
 identifiers:
